@@ -8,16 +8,73 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ea732e5916a32efe",
+            "id": "f8ab66aeb13ea45f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024-05-04.md",
+                "file": "Portfolio.md",
                 "mode": "source",
+                "source": true
+              }
+            },
+            "group": "2534403362b18d2d"
+          },
+          {
+            "id": "36251ed466c628e7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1714862505-YNSF.md",
+                "mode": "source",
+                "backlinks": true,
                 "source": false
               }
             }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "9ef1a1d6d85cd7da",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "43e6cb91942e31ad",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Portfolio.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1,
+                  "close": false
+                }
+              }
+            },
+            "group": "2534403362b18d2d"
           }
         ]
       }
@@ -44,7 +101,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "tag:daily-notes",
+            "query": "Po",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -73,7 +130,7 @@
         }
       }
     ],
-    "currentTab": 1
+    "currentTab": 0
   },
   "right": {
     "id": "0e35b478e07b14df",
@@ -85,7 +142,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "2024-05-04.md",
+            "file": "1714862505-YNSF.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +159,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "2024-05-04.md",
+            "file": "1714862505-YNSF.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +171,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "2024-05-04.md"
+            "file": "1714862505-YNSF.md"
           }
         }
       }
@@ -131,10 +188,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ea732e5916a32efe",
+  "active": "36251ed466c628e7",
   "lastOpenFiles": [
-    "1714819595-USPT.md",
+    "Portfolio.md",
+    "Logo banner.md",
     "2024-05-04.md",
+    "1714862505-YNSF.md",
+    "1714819595-USPT.md",
     "1714819625-ZLIY.md"
   ]
 }
