@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Portfolio.md",
+                "file": "The role of AI and humans.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Portfolio"
+              "title": "The role of AI and humans"
             },
             "group": "2534403362b18d2d"
           }
@@ -34,12 +34,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Portfolio.md",
+                "file": "The role of AI and humans.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Portfolio"
+              "title": "The role of AI and humans"
             },
             "group": "2534403362b18d2d"
           }
@@ -117,7 +117,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Portfolio.md",
+            "file": "The role of AI and humans.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -171,8 +171,12 @@
   },
   "active": "f8ab66aeb13ea45f",
   "lastOpenFiles": [
-    "TMUX project aliases.md",
+    "Obsidian Gold.md",
+    "The role of AI and humans.md",
+    "XState Actor Systems.md",
+    "State machine interfaces.md",
     "Portfolio.md",
+    "TMUX project aliases.md",
     "Logo banner.md",
     "1714819595-USPT.md",
     "1714819625-ZLIY.md",
