@@ -1,0 +1,22 @@
+---
+id: 1720374459-QTQP
+aliases:
+  - Streaming components geekbook
+tags: []
+---
+
+# Streaming components geekbook
+
+## Requirements
+
+- Load streaming components reliant on a lazy actor available loadable in geekbook without a streaming page context
+- Components will have some deps to load, which can be added to an array
+- Set the initial state of machines. How to do this without using the broadcast info?
+- Question: Should the selected deps of a machine be loaded as well or do we update them with events
+- Expose the machine events to the user. Probably some control panel
+- What should the end component props and requirements be?
+- Geekbook context different from streaming context. We currently point to the root actor
+  - React context would not work as well as we still want to grab the state from the broadcast info without using a hook
+
+## Issues
+
